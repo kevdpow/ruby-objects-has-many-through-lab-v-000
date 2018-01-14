@@ -10,5 +10,5 @@ class Patient
     @appointments << appointment.new
     
   end
-  
+
 end
